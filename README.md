@@ -3,7 +3,7 @@
 
 **Mata Kuliah:** Algoritma dan Pemrograman Lanjutan  
 **Program Studi:** Pendidikan Teknologi Informasi (PTI)  
-**Fakultas:** Keguruan dan Ilmu Pendidikan, Universitas Muhammadiyah Tasikmalaya  
+**Fakultas Keguruan dan Ilmu Pendidikan, Universitas Muhammadiyah Tasikmalaya** 
 
 ---
 
