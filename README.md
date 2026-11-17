@@ -92,4 +92,5 @@ Mengurutkan produk berdasarkan harga dari termurah dan jumlah terjual dari terba
 
 ### 7. Skenario 7: Pencarian Produk dan Cek Stok Menipis (< 5)
 Mencari produk berdasarkan nama (menu 6) serta menampilkan peringatan produk dengan stok kurang dari 5 (menu 9).
+<img width="945" height="1012" alt="7" src="https://github.com/user-attachments/assets/0a08cd66-3068-4303-b21d-0b2d3b2f18da" />
 <img width="943" height="1010" alt="Screenshot 2026-11-17 203241" src="https://github.com/user-attachments/assets/fe79f447-79ee-4eb0-96b7-e6f1d68191bb" />
