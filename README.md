@@ -1,4 +1,4 @@
-# UTS-ALGORITMA-PEMROGRAMAN-DASAR_DIVIA-AULIA
+# Proyek-Array-C-C2583207049
 # Sistem Monitoring Stok dan Penjualan Kantin Kampus
 
 **Mata Kuliah:** Algoritma dan Pemrograman Lanjutan  
